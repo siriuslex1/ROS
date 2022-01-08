@@ -9,3 +9,5 @@
 #### step 1: roslaunch mbot_gazebo new_world.launch
 #### step 2: roslaunch mbot_teleop teleop.launch
 #### Then you can control the robot by pressing your keyboard
+#### 李思睿@北京邮电大学叶培大创新创业学院
+#### 指导老师：李海源@课程名称：智能机器人系统
